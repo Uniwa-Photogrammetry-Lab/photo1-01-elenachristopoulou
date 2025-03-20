@@ -1,3 +1,8 @@
+#1η άσκηση
+##Χριστοπούλου Ελένη
+##23391074
+##4ο εξάμηνο
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
